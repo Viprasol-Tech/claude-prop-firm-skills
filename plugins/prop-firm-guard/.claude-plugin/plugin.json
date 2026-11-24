@@ -1,0 +1,33 @@
+{
+  "name": "prop-firm-guard",
+  "displayName": "Prop Firm Guard",
+  "version": "1.0.0",
+  "description": "Claude Code skills for prop-firm compliance: daily and max-loss models exactly as FTMO, FundedNext, The5ers, FundingPips, Topstep and Apex compute them (bases, reset times, static/EOD/balance/intraday trailing, locks), a Monte Carlo challenge planner, an MT5 equity guard EA template with daylight-saving-correct firm days, futures trailing-drawdown guards, news windows and banned practices, and rule-aware journals.",
+  "author": {
+    "name": "Viprasol Tech",
+    "email": "support@viprasol.com",
+    "url": "https://viprasol.com"
+  },
+  "homepage": "https://github.com/Viprasol-Tech/claude-prop-firm-skills",
+  "repository": "https://github.com/Viprasol-Tech/claude-prop-firm-skills",
+  "license": "MIT",
+  "keywords": [
+    "prop-firm",
+    "prop-trading",
+    "funded-account",
+    "ftmo",
+    "fundednext",
+    "the5ers",
+    "fundingpips",
+    "topstep",
+    "apex-trader-funding",
+    "drawdown",
+    "trailing-drawdown",
+    "metatrader5",
+    "mql5",
+    "expert-advisor",
+    "risk-management",
+    "trading-bot",
+    "claude-code-skills"
+  ]
+}

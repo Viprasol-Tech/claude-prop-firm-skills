@@ -1,0 +1,26 @@
+{
+  "name": "claude-prop-firm-skills",
+  "description": "Free Claude Code skills that keep traders, EAs and bots inside prop-firm rules: exact drawdown models, challenge pass odds, an MT5 equity guard, futures trailing-drawdown guards, restricted practices and rule-aware journals.",
+  "owner": {
+    "name": "Viprasol Tech",
+    "url": "https://viprasol.com"
+  },
+  "plugins": [
+    {
+      "name": "prop-firm-guard",
+      "source": "./plugins/prop-firm-guard",
+      "description": "6 skills: prop-rules-engine, challenge-planner, mt5-ea-guard, futures-bot-guard, restricted-practices and prop-journal, with a tested drawdown checker, a challenge simulator and an MQL5 guard template.",
+      "category": "finance",
+      "tags": [
+        "prop-firm",
+        "ftmo",
+        "topstep",
+        "funded-account",
+        "metatrader5",
+        "expert-advisor",
+        "risk-management",
+        "trading-bot"
+      ]
+    }
+  ]
+}
